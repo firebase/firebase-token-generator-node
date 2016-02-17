@@ -96,3 +96,7 @@ $ npm install -g grunt-cli mocha phantomjs
 $ npm install
 $ grunt
 ```
+
+## Implementing token auth
+
+See [this gist](https://gist.github.com/simenbrekken/5011635)
